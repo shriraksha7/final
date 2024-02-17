@@ -1,0 +1,16 @@
+Shriraksha Moger,22,Heble Bhatkal,Cold,F,123-456-7890
+Kevin,22,456 Avenue Town Bhatkal,Fever,M,987-654-3210
+Dayana V,25,789 Road Village Bhatkal,Allergy,F,111-222-3333
+Rakshith Anand,22,321 Lane Suburb,Infection,M,444-555-6666
+Vandana,22,654 Boulevard Bangalore,Headache,F,777-888-9999
+Nikhil G,23,987 Drive Bangalore,Migraine,M,123-987-6543
+Zafar,50,456 Avenue Ballari,Diabetes,M,444-333-2222
+Rahul,30,123 Street Ballari,Asthma,M,999-888-7777
+Priya,40,789 Road Ballari,Hypertension,F,111-333-5555
+Amir,22,456 Avenue Bhatkal,Flu,M,888-777-6666
+Asif,38,321 Lane Ballari,Migraine,M,222-333-4444
+Prince,60,987 Drive Ballari,Arthritis,M,555-666-7777
+Aditya,28,654 Boulevard Bangalore,Stomachache,M,666-777-8888
+Aman,48,123 Street Bangalore,Backache,M,444-555-6666
+Sahil,33,789 Road Bangalore,Insomnia,M,777-888-9999
+dfghj,23,ertyu,wer,f,234567
