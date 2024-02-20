@@ -8,7 +8,7 @@ struct Patient {
     char disease[50];
     char sex;
     char contact[20];
-     int active; // Flag to indicate if the record is active or inactive
+     int active; 
 };
 void savePatientData(struct Patient (*patients)[3], int n);
 void readPatientData(struct Patient (*patients)[3], int n);
